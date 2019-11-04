@@ -38,7 +38,7 @@ a{ color: white; text-decoration: none;}
 <tr>
 <td bgcolor="gray" valign="top">
 <h2 align="center">상품 정보 등록 화면</h2>
-<form action="insertA02.jsp" name="insert" method="post">
+<form action="insertA02.jsp" name="insert" method="get">
 <table width="80%" align="center">
 <tr>
 <td align="center" width=100px;>상품코드</td>
