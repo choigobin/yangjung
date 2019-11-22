@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="p1028" path="/p1028" reloadable="true" source="org.eclipse.jst.jee.server:p1028"/><Context docBase="HRD_0916" path="/HRD_0916" reloadable="true" source="org.eclipse.jst.jee.server:HRD_0916"/><Context docBase="HRD_1007" path="/HRD_1007" reloadable="true" source="org.eclipse.jst.jee.server:HRD_1007"/><Context docBase="yangjungMarket" path="/yangjungMarket" reloadable="true" source="org.eclipse.jst.jee.server:yangjungMarket"/><Context docBase="HRD1118" path="/HRD1118" reloadable="true" source="org.eclipse.jst.jee.server:HRD1118"/></Host>
+      <Context docBase="p1028" path="/p1028" reloadable="true" source="org.eclipse.jst.jee.server:p1028"/><Context docBase="HRD_0916" path="/HRD_0916" reloadable="true" source="org.eclipse.jst.jee.server:HRD_0916"/><Context docBase="HRD_1007" path="/HRD_1007" reloadable="true" source="org.eclipse.jst.jee.server:HRD_1007"/><Context docBase="yangjungMarket" path="/yangjungMarket" reloadable="true" source="org.eclipse.jst.jee.server:yangjungMarket"/><Context docBase="HRD_1118" path="/HRD_1118" reloadable="true" source="org.eclipse.jst.jee.server:HRD_1118"/><Context docBase="HRD_1119" path="/HRD_1119" reloadable="true" source="org.eclipse.jst.jee.server:HRD_1119"/></Host>
     </Engine>
   </Service>
 </Server>
